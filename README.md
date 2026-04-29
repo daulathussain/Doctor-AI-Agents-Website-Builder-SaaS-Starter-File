@@ -1,6 +1,6 @@
 # Doctor AI Agents + Website Builder SaaS for Clinics
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2026/04/Build-Doctor-AI-Agents-Website-Builder-SaaS-for-Clinics-Next.js-Supabase-Claude-AI-Full-Stack-Project.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2026/04/Build-Doctor-AI-Agents-Website-Builder-SaaS-for-Clinics-Next.js-Supabase-Claude-AI-Full-Stack.png)
 
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-doctor-ai-agents-+-website-builder-saas-for-clinics-or-next.js-supabase-claude-ai-full-stack-project)
 

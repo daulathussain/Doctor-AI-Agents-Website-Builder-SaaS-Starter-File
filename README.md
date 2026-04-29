@@ -6,7 +6,7 @@
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/2uaZPkp2HMY?si=-UQnrZaNgci7WyzY)
 
 ## Project Overview
 
